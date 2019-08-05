@@ -1,0 +1,14 @@
+<div class="row ">
+  <div class="col-4 "></div>
+  <div class="col-4 " style="text-align: center">
+    <h1 id="styleH1">Todo APP</h1><img src="" alt="">
+    <hr>
+    <br>
+    <input id="texto" placeholder="Añade una herramienta" type="text"> <button id="buttonAñadir" (click)="addElement()">
+      <input type="image" src="./assets/img/buttonMas.png"></button>
+    <div class="divContent" *ngFor="let apps of tareas; let i = index">{{apps}}
+      <button id="buttonDelete" (click)="deleteTask(i)"><img src="./assets/img/papelera.png" type="text"></button>
+
+    </div>
+  </div>
+</div>

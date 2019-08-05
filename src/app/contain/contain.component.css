@@ -1,0 +1,54 @@
+#buttonDelete {
+
+  border-radius: 40px;
+  margin-top: 5px;
+  background-color: rgb(255, 255, 255);
+  height: 80px;
+  width: 80px;
+  
+  
+
+
+
+}
+
+.divContent {
+  margin-left: 300px;
+  margin-right: 300px;
+  background-color: rgba(255, 127, 80, 0.87);
+  height: 100px;
+  margin-top: 10px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 50PX;
+  box-shadow: 5px 5px 5px grey;
+  border-radius: 20px;
+}
+
+#texto {
+
+  margin-left: 23px;
+  width: 800px;
+  height: 50px;
+  font-size: 20px;
+
+
+}
+
+#styleH1 {
+  font-size: 50px;
+  color: orangered;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+#buttonAñadir {
+  background-color: rgb(255, 255, 255);
+  border-radius: 100px;
+
+  margin-left: -70px;
+  margin-top: 20px;
+  position: absolute;
+  top: 146px;
+
+
+}
